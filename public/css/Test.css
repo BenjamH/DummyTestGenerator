@@ -1,0 +1,15 @@
+.Passed {
+  color: green;
+}
+
+.Failed {
+  color: red;
+}
+
+.Processing {
+  color: yellow;
+}
+
+.Not-started {
+  color:  black;
+}
